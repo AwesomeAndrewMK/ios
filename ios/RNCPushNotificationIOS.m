@@ -73,7 +73,7 @@ RCT_EXPORT_MODULE()
            @"remoteNotificationRegistrationError"];
 }
 
-+ (void)didRegisterUserNotificationSettings:(__unused UIUserNotificationSettings *)notificationSettings
++ (void)didRegisterUserNotificationSettings:(__unused UNNotificationSettings *)notificationSettings
 {
 }
 
